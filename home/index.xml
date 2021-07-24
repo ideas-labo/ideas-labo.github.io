@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on IDEAS Laboratory</title>
+    <link>https://ideas-labo.github.io/home/</link>
+    <description>Recent content in About on IDEAS Laboratory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 22 Jul 2021 22:06:32 +0100</lastBuildDate><atom:link href="https://ideas-labo.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Members</title>
+      <link>https://ideas-labo.github.io/home/members/</link>
+      <pubDate>Thu, 22 Jul 2021 22:06:32 +0100</pubDate>
+      
+      <guid>https://ideas-labo.github.io/home/members/</guid>
+      <description> Lab lead  Dr. Tao Chen  Ph.D. student   Jingzhi Gong, Data-Driven Performance Modeling for Highly-Configurable and Adaptable Software Guoming Long, Code Naturalness Aware Analysis of Performance Requirements and Reports   Graduated Ph.D. student   Satish Kumar, Debt-Aware and Evolutionary Self-Adaptation for Service Composition (co-supervised with Dr. Rami Bahsoon) Dalia Sobhy, Economic and Machine Learning Driven Self-Adaptive Architecture Diversity in IoT (co-supervised with Dr. Rami Bahsoon)   Graduated master student (selected)   Min Duc Chong, Comparative Study of Machine Learning Algorithms for Software Performance Prediction in the Cloud Evan Harvely, On the Termination Criteria of Evolutionary Search-Based Algorithms for Cloud Resources Management Taiyang Guo, Cloud Instance Selection using Parallel K-Mean Clustering and Hadoop Marcus Chon Kit Ng, Multi Populations with Dynamic Diversity Levels for Dynamic Optimization    </description>
+    </item>
+    
+    <item>
+      <title>Vacancies</title>
+      <link>https://ideas-labo.github.io/home/vacancies/</link>
+      <pubDate>Thu, 22 Jul 2021 22:06:32 +0100</pubDate>
+      
+      <guid>https://ideas-labo.github.io/home/vacancies/</guid>
+      <description>Unfortunately, we do not have full-time positions opened at the moment.  However, our group currently have the following funding opportunities for Ph.D. applicants:   China Scholarship Council (CSC) Funds: For Chinese national students, PhD studentships funded by China Scholarship Council are available, covering full international tuition fee, living expenses and air fare.   Egyptian Cultural and Education Bureau Scholarships: Students in receipt of a scholarship from the Ministry of Higher Education and Scientific Research in Egypt are eligible for a bursary that covers around 25% of the tuition fee.</description>
+    </item>
+    
+  </channel>
+</rss>
