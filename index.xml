@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to the IDEAS laboratory on IDEAS Laboratory</title>
+    <link>https://ideas-labo.github.io/</link>
+    <description>Recent content in Welcome to the IDEAS laboratory on IDEAS Laboratory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 22 Jul 2021 22:06:32 +0100</lastBuildDate><atom:link href="https://ideas-labo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2013</title>
+      <link>https://ideas-labo.github.io/research/publications/2013/</link>
+      <pubDate>Thu, 22 Jul 2021 22:06:32 +0100</pubDate>
+      
+      <guid>https://ideas-labo.github.io/research/publications/2013/</guid>
+      <description>* denotes equal contributions; + denotes the students (co-)supervised by Dr. Chen.  ICSE/SEAMS&#39;13 T. Chen and R. Bahsoon. Self-Adaptive and Sensitivity-Aware QoS Modelling for the Cloud. The 8th International Symposium on Software Engineering for Adaptive and Self-Managing Systems, SEAMS in conjunction with the 35th International Conference on Software Engineering (ICSE), San Francisco, CA, 2013.   	ICCS&#39;13 T. Chen, R. Bahsoon and G. Theodoropoulos. A Decentralized Architecture for Dynamic QoS Optimization in Cloud-based DDDAS.</description>
+    </item>
+    
+    <item>
+      <title>2014</title>
+      <link>https://ideas-labo.github.io/research/publications/2014/</link>
+      <pubDate>Thu, 22 Jul 2021 22:06:32 +0100</pubDate>
+      
+      <guid>https://ideas-labo.github.io/research/publications/2014/</guid>
+      <description>* denotes equal contributions; + denotes the students (co-)supervised by Dr. Chen.  Elsevier INS&#39;14 T. Chen, R. Bahsoon and A. Tawil. Scalable Service Oriented Replication with Flexible Consistency Guarantee in the Cloud. Information Science, Elsevier, vol. 264, 2014.    UCC&#39;14 T. Chen, R. Bahsoon and X. Yao. Online QoS Modeling in the Cloud: A Hybrid and Adaptive Multi-Learners Approach. The 7th IEEE/ACM International Conference on Utility and Cloud Computing (UCC2014), London, UK.</description>
+    </item>
+    
+    <item>
+      <title>2015</title>
+      <link>https://ideas-labo.github.io/research/publications/2015/</link>
+      <pubDate>Thu, 22 Jul 2021 22:06:32 +0100</pubDate>
+      
+      <guid>https://ideas-labo.github.io/research/publications/2015/</guid>
+      <description>* denotes equal contributions; + denotes the students (co-)supervised by Dr. Chen.  IEEE COM&#39;15 T. Chen and R. Bahsoon. Towards A Smarter Cloud: Self-Aware Autoscaling of Cloud Configurations and Resources. IEEE Computer, vol. 48, no. 9, 2015.    IEEE COM&#39;15 P.R. Lewis, A. Chandra, F. Faniyi, K. Glette, T. Chen, R. Bahsoon, J. Torresen and X. Yao. Architectural Aspects of Self-Aware and Self-Expressive Computing Systems: From Psychology to Engineering.</description>
+    </item>
+    
+    <item>
+      <title>2016</title>
+      <link>https://ideas-labo.github.io/research/publications/2016/</link>
+      <pubDate>Thu, 22 Jul 2021 22:06:32 +0100</pubDate>
+      
+      <guid>https://ideas-labo.github.io/research/publications/2016/</guid>
+      <description>* denotes equal contributions; + denotes the students (co-)supervised by Dr. Chen.  SACS&#39;16 T. Chen, F. Faniyi, and R. Bahsoon. Design Patterns and Primitives: Introduction of Components and Patterns for Self-Aware Computing Systems, in the book of Self-Aware Computing Systems, Springer, 2016.    PhD&#39;16 T. Chen. Self-Aware and Self-Adaptive Autoscaling for Cloud Based Services. School of Computer Science, University of Birmingham, 2016.   </description>
+    </item>
+    
+    <item>
+      <title>2017</title>
+      <link>https://ideas-labo.github.io/research/publications/2017/</link>
+      <pubDate>Thu, 22 Jul 2021 22:06:32 +0100</pubDate>
+      
+      <guid>https://ideas-labo.github.io/research/publications/2017/</guid>
+      <description>* denotes equal contributions; + denotes the students (co-)supervised by Dr. Chen.  IEEE TSE&#39;17 T. Chen and R. Bahsoon. Self-Adaptive and Online QoS Modeling for Cloud-Based Software Services. IEEE Transactions on Software Engineering, vol. 43, no. 5, 2017.  (The 5th most frequently downloaded article for TSE according to the usage statistics in May 2017; 2nd in June; 3rd in July; top 50 thereafter)    IEEE TSC&#39;17 T.</description>
+    </item>
+    
+    <item>
+      <title>2018</title>
+      <link>https://ideas-labo.github.io/research/publications/2018/</link>
+      <pubDate>Thu, 22 Jul 2021 22:06:32 +0100</pubDate>
+      
+      <guid>https://ideas-labo.github.io/research/publications/2018/</guid>
+      <description>* denotes equal contributions; + denotes the students (co-)supervised by Dr. Chen.  ACM TOSEM&#39;18 T. Chen, K. Li, R. Bahsoon and X. Yao. FEMOSAA: Feature Guided and Knee Driven Multi-Objective Optimization for Self-Adaptive Software. ACM Transactions on Software Engineering and Methodology, vol. 27, no. 2, 2018.  (The most frequently downloaded article for TOSEM according to the usage statistics in Aug 2018)    ACM CSUR&#39;18 T. Chen, R.</description>
+    </item>
+    
+    <item>
+      <title>2019</title>
+      <link>https://ideas-labo.github.io/research/publications/2019/</link>
+      <pubDate>Thu, 22 Jul 2021 22:06:32 +0100</pubDate>
+      
+      <guid>https://ideas-labo.github.io/research/publications/2019/</guid>
+      <description>* denotes equal contributions; + denotes the students (co-)supervised by Dr. Chen.  Elsevier IST&#39;19 T. Chen, M. Li and X. Yao. Standing on the Shoulders of Giants: Seeding Search-based Multi-Objective Optimization with Prior Knowledge for Software Service Composition. Elsevier Information and Software Technology, vol. 114, 2019.    ICSE/SEAMS&#39;19 T. Chen. All Versus One: An Empirical Comparison on Retrained and Incremental Machine Learning for Modeling Performance of Adaptable Software.</description>
+    </item>
+    
+    <item>
+      <title>2020</title>
+      <link>https://ideas-labo.github.io/research/publications/2020/</link>
+      <pubDate>Thu, 22 Jul 2021 22:06:32 +0100</pubDate>
+      
+      <guid>https://ideas-labo.github.io/research/publications/2020/</guid>
+      <description>* denotes equal contributions; + denotes the students (co-)supervised by Dr. Chen.  Proc. IEEE&#39;20 T. Chen, R. Bahsoon and X. Yao. Synergizing Domain Expertise with Self-Awareness in Software Systems: A Patternized Architecture Guideline. Proceedings of the IEEE, vol. 108, no. 7, 2020.    Elsevier JSS&#39;20 D. Sobhy+, L. Minku, R. Bahsoon, T. Chen and R. Kazman. Run-time Evaluation of Architectures: A Case Study of Diversification in IoT. Elsevier Journal of Systems and Software, vol.</description>
+    </item>
+    
+    <item>
+      <title>2021</title>
+      <link>https://ideas-labo.github.io/research/publications/2021/</link>
+      <pubDate>Thu, 22 Jul 2021 22:06:32 +0100</pubDate>
+      
+      <guid>https://ideas-labo.github.io/research/publications/2021/</guid>
+      <description>* denotes equal contributions; + denotes the students (co-)supervised by Dr. Chen.  FSE&#39;21 M. Li*, T. Chen*, and X. Yao. &#34;Multi-Objectivizing Software Configuration Tuning. The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2021.   IEEE TSE&#39;21 M. Li*, T. Chen*, and X. Yao. How to Evaluate Solutions in Pareto-based Search-Based Software Engineering? A Critical Review and Methodological Guidance. IEEE Transactions on Software Engineering, to appear, 2021.</description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>https://ideas-labo.github.io/home/members/</link>
+      <pubDate>Thu, 22 Jul 2021 22:06:32 +0100</pubDate>
+      
+      <guid>https://ideas-labo.github.io/home/members/</guid>
+      <description> Lab lead  Dr. Tao Chen  Ph.D. student   Jingzhi Gong, Data-Driven Performance Modeling for Highly-Configurable and Adaptable Software Guoming Long, Code Naturalness Aware Analysis of Performance Requirements and Reports   Graduated Ph.D. student   Satish Kumar, Debt-Aware and Evolutionary Self-Adaptation for Service Composition (co-supervised with Dr. Rami Bahsoon) Dalia Sobhy, Economic and Machine Learning Driven Self-Adaptive Architecture Diversity in IoT (co-supervised with Dr. Rami Bahsoon)   Graduated master student (selected)   Min Duc Chong, Comparative Study of Machine Learning Algorithms for Software Performance Prediction in the Cloud Evan Harvely, On the Termination Criteria of Evolutionary Search-Based Algorithms for Cloud Resources Management Taiyang Guo, Cloud Instance Selection using Parallel K-Mean Clustering and Hadoop Marcus Chon Kit Ng, Multi Populations with Dynamic Diversity Levels for Dynamic Optimization    </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ideas-labo.github.io/research/projects/</link>
+      <pubDate>Thu, 22 Jul 2021 22:06:32 +0100</pubDate>
+      
+      <guid>https://ideas-labo.github.io/research/projects/</guid>
+      <description>Research in the IDEAS lab has been generously supported by or closely working with the following funding bodies:   APAS: Automated Profiler for Adaptive Systems in IoT, funded by RISE, Germany, 2019-2020.   DAASE: Dynamic Adaptive Automated Software Engineering (DAASE), EP/J017515/01, funded by EPSRC, 2012-2019.   ECDONE: Evolutionary Computation for Dynamic Optimisation in Network Environments (ECDONE), EP/K001523/01, funded by EPSRC, 2013-2017.   EACS: Ecology Inspired Self-Aware Autoscaling Supporting Elastic Cloud-Based Services, funded by Ramsay Research Funding Schema from School of Computer Science at University of Birmingham, 2015-2016.</description>
+    </item>
+    
+    <item>
+      <title>Vacancies</title>
+      <link>https://ideas-labo.github.io/home/vacancies/</link>
+      <pubDate>Thu, 22 Jul 2021 22:06:32 +0100</pubDate>
+      
+      <guid>https://ideas-labo.github.io/home/vacancies/</guid>
+      <description>Unfortunately, we do not have full-time positions opened at the moment.  However, our group currently have the following funding opportunities for Ph.D. applicants:   China Scholarship Council (CSC) Funds: For Chinese national students, PhD studentships funded by China Scholarship Council are available, covering full international tuition fee, living expenses and air fare.   Egyptian Cultural and Education Bureau Scholarships: Students in receipt of a scholarship from the Ministry of Higher Education and Scientific Research in Egypt are eligible for a bursary that covers around 25% of the tuition fee.</description>
+    </item>
+    
+  </channel>
+</rss>

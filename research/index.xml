@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on IDEAS Laboratory</title>
+    <link>https://ideas-labo.github.io/research/</link>
+    <description>Recent content in Research on IDEAS Laboratory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 22 Jul 2021 22:06:32 +0100</lastBuildDate><atom:link href="https://ideas-labo.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://ideas-labo.github.io/research/projects/</link>
+      <pubDate>Thu, 22 Jul 2021 22:06:32 +0100</pubDate>
+      
+      <guid>https://ideas-labo.github.io/research/projects/</guid>
+      <description>Research in the IDEAS lab has been generously supported by or closely working with the following funding bodies:   APAS: Automated Profiler for Adaptive Systems in IoT, funded by RISE, Germany, 2019-2020.   DAASE: Dynamic Adaptive Automated Software Engineering (DAASE), EP/J017515/01, funded by EPSRC, 2012-2019.   ECDONE: Evolutionary Computation for Dynamic Optimisation in Network Environments (ECDONE), EP/K001523/01, funded by EPSRC, 2013-2017.   EACS: Ecology Inspired Self-Aware Autoscaling Supporting Elastic Cloud-Based Services, funded by Ramsay Research Funding Schema from School of Computer Science at University of Birmingham, 2015-2016.</description>
+    </item>
+    
+  </channel>
+</rss>
